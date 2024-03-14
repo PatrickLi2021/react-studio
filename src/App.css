@@ -1,9 +1,11 @@
 /* Add styling for your page here */
 
-.App {
+.App {}
 
-}
-
-.BakeryItem {
-  
+.bakery-item {
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 1%;
+    padding: 2%;
 }
